@@ -1,0 +1,15 @@
+{
+  "name": "cortico-world-web-search",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "别人问到她不知道的事时，查网上的说法。",
+  "license": "MIT",
+  "files": ["src", "README.md", "LICENSE"],
+  "main": "./src/index.ts",
+  "keywords": ["cortico-world", "search"],
+  "cortico": {
+    "kind": "world",
+    "api": 6,
+    "displayName": "联网搜索"
+  }
+}
